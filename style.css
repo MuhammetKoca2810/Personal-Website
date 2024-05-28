@@ -33,6 +33,7 @@ h1 {
   margin-top: 20px;
   position: relative;
   left: 78%;
+  border-radius: 5%;
 }
 
 .index-p {
@@ -41,7 +42,7 @@ h1 {
   width: 50%;
   margin-top: 100%;
   margin: 0 auto;
-  font-size: 30px;
+  font-size: 40px;
   display: inline-block;
 }
 
@@ -51,16 +52,16 @@ h1 {
   width: 50%;
   margin-top: 100%;
   margin: 0 auto;
-  font-size: 30px;
+  font-size: 22px;
 }
 
 .portfolio-p {
   color: white;
-  text-align: center;
+  text-align: left;
   width: 50%;
   margin-top: 100%;
   margin: 0 auto;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 .nav-links {
