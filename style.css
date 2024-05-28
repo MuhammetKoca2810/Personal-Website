@@ -26,6 +26,9 @@ h1 {
   color: white;
   margin: 100;
 }
+a {
+  color: blue;
+}
 
 .image {
   width: 400px;
