@@ -30,12 +30,17 @@ a {
   color: blue;
 }
 
+form {
+  color: white;
+  align-items: center;
+  padding-top: 15%;
+}
 .image {
   width: 400px;
   height: 500px;
   margin-top: 20px;
   position: relative;
-  left: 78%;
+  left: 76%;
   border-radius: 5%;
 }
 
